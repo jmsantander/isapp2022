@@ -2,7 +2,7 @@
 
 This is a series of jupyter notebooks for the ISAPP 2022 school at University of Paris-Saclay.
 
-* Requirements
+## Requirements
 
 The following libraries are required for all of them to work correctly.
 
